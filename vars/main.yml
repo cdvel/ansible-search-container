@@ -1,0 +1,14 @@
+---
+container_name: solr
+
+java_packages:
+  - openjdk-11-jdk
+
+elasticsearch_version: "7.5.0"
+redisearch_version: "1.4.2"
+searchlight_version: "8.0"
+solr_version: "8.6.2"
+
+
+
+
